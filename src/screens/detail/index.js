@@ -110,8 +110,8 @@ const styles = StyleSheet.create({
     color: 'white',
   },
   searchPic: {
-    height: moderateScale(100),
-    width: moderateScale(150),
+    height: moderateScale(200),
+    width: moderateScale(250),
     marginLeft: moderateScale(14),
   },
   movie: {
